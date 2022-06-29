@@ -10,9 +10,9 @@
 #define BLYNK_PRINT Serial 
 
 //Password Wifi
-char auth[] = "t_cJJp2dHz_WD1UTlRicjjKU0PjnQNdE"; 
-char ssid[] = "ar12";
-char pass[] = "bismillah";
+char auth[] = "Put Your Auth Here"; 
+char ssid[] = "WIFI NAME";
+char pass[] = "WIFI PASSWORD";
 
 //Stopwatch
 int jam, menit, detik, miliDetik;
