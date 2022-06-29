@@ -14,11 +14,10 @@ const int INA_addr = 0x40;
 Adafruit_INA219 INA219(INA_addr);
 
 //Password Wifi
-char auth[] = "t_cJJp2dHz_WD1UTlRicjjKU0PjnQNdE"; 
-char ssid[] = "WIFI MSL";
-char pass[] = "yanimsl357";
-//char ssid[] = "ar12";
-//char pass[] = "bismillah";
+char auth[] = "Put Your Auth Here"; 
+char ssid[] = "WIFI NAME";
+char pass[] = "WIFI PASSWORD";
+
 //Stopwatch
 int jam, menit, detik, miliDetik;
 unsigned long over;
